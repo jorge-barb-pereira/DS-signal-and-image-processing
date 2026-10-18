@@ -1,0 +1,429 @@
+[
+  {
+    "original_path": "TP0/cicle.m",
+    "repository_path": "coursework/TP0/cicle.m",
+    "original_modified_utc": "2021-02-19T10:25:57+00:00",
+    "original_sha256": "e476f456e2b89d2168f0b69e53873e27c62552cf16d42ccbaf4dd6280b6a280c",
+    "attribution": "preliminary course notes; individual authorship unspecified"
+  },
+  {
+    "original_path": "TP0/funcao.m",
+    "repository_path": "coursework/TP0/funcao.m",
+    "original_modified_utc": "2021-02-19T10:21:00+00:00",
+    "original_sha256": "48640cb8377d67213dc95a8b6998d1e21b78941956f4b52da965d035c7874fad",
+    "attribution": "preliminary course notes; individual authorship unspecified"
+  },
+  {
+    "original_path": "TP0/imagem.m",
+    "repository_path": "coursework/TP0/imagem.m",
+    "original_modified_utc": "2021-02-26T09:41:26+00:00",
+    "original_sha256": "7fb8a69bb1d84c697a84d94adbf4c4e1f57516de6906eb3e0c5ea5a948f4c29c",
+    "attribution": "preliminary course notes; individual authorship unspecified"
+  },
+  {
+    "original_path": "TP0/imagem_sintetica.m",
+    "repository_path": "coursework/TP0/imagem_sintetica.m",
+    "original_modified_utc": "2021-02-26T09:45:31+00:00",
+    "original_sha256": "356369b7b5c8b3712aab240ec3a43b110a26fa7e97894a653ed067752bdfe7ef",
+    "attribution": "preliminary course notes; individual authorship unspecified"
+  },
+  {
+    "original_path": "TP0/teste.m",
+    "repository_path": "coursework/TP0/teste.m",
+    "original_modified_utc": "2021-02-19T10:08:37+00:00",
+    "original_sha256": "b8a8e1f3aa18074e5dc90fa9b4dc8ef33d1061b7260715982ae1ecd411a4573b",
+    "attribution": "preliminary course notes; individual authorship unspecified"
+  },
+  {
+    "original_path": "TP1/JorgePereira_TP1_A1.m",
+    "repository_path": "coursework/TP1/JorgePereira_TP1_A1.m",
+    "original_modified_utc": "2021-03-10T22:42:13+00:00",
+    "original_sha256": "1a69709b35f123390fb10e5dcce37db7aef19b7664121921cfbe1a8e6eb120dd",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP1/JorgePereira_TP1_A2.m",
+    "repository_path": "coursework/TP1/JorgePereira_TP1_A2.m",
+    "original_modified_utc": "2021-03-11T01:22:59+00:00",
+    "original_sha256": "1d4f5670f862556ea18edf9ae47e9ac881af045e80d799a3abad89d6b85be6ca",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP1/JorgePereira_TP1_A3_Comparador.m",
+    "repository_path": "coursework/TP1/JorgePereira_TP1_A3_Comparador.m",
+    "original_modified_utc": "2021-03-11T01:13:26+00:00",
+    "original_sha256": "9728fc718bb946c73ff31eccb25ee991139dd578e679a30514a02af719e10805",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP1/JorgePereira_TP1_A3_v1.m",
+    "repository_path": "coursework/TP1/JorgePereira_TP1_A3_v1.m",
+    "original_modified_utc": "2021-03-11T00:38:37+00:00",
+    "original_sha256": "df75a258a3c69ef2e9f73bf9161d1f2128df521ba881c4e0935dc2d1ea7efda7",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP1/JorgePereira_TP1_A3_v2.m",
+    "repository_path": "coursework/TP1/JorgePereira_TP1_A3_v2.m",
+    "original_modified_utc": "2021-03-11T00:42:10+00:00",
+    "original_sha256": "83a6031e7716827a5b2e36cfdc4c5027b52a56a1346f678d1861255d652cf3d7",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP1/JorgePereira_TP1_B.m",
+    "repository_path": "coursework/TP1/JorgePereira_TP1_B.m",
+    "original_modified_utc": "2021-03-11T01:25:43+00:00",
+    "original_sha256": "fa0181bc82c69458ec1dda06b478e2fa6858e2d7da08a2ac42346cfeddad9d72",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP1/JorgePereira_TP1_C.m",
+    "repository_path": "coursework/TP1/JorgePereira_TP1_C.m",
+    "original_modified_utc": "2021-03-11T01:25:40+00:00",
+    "original_sha256": "74ab72c467c6b11984280dc1fcdd1f9bde1add1eac0ab22d51ce4f69dd2b2dff",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP1/JorgePereira_TP1_D.m",
+    "repository_path": "coursework/TP1/JorgePereira_TP1_D.m",
+    "original_modified_utc": "2021-03-11T01:28:38+00:00",
+    "original_sha256": "7f18ad53b0854a01318889574d56b4adbf2123c0368e6368fc536ea5c60b43ea",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP1/JorgePereira_TP1_E.m",
+    "repository_path": "coursework/TP1/JorgePereira_TP1_E.m",
+    "original_modified_utc": "2021-03-11T01:36:42+00:00",
+    "original_sha256": "13ba8966fb14a1ceaffc0ce42948b97d6b68d9c9f9975c8ca47b407336692465",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP1/JorgePereira_TP1_F.m",
+    "repository_path": "coursework/TP1/JorgePereira_TP1_F.m",
+    "original_modified_utc": "2021-03-11T01:41:40+00:00",
+    "original_sha256": "d2b50876c2be0db47010493ac50d178c474c36ef9319a88d2df6f63f0a06cecf",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP2/JorgePereira_TP2_A.m",
+    "repository_path": "coursework/TP2/JorgePereira_TP2_A.m",
+    "original_modified_utc": "2021-03-25T23:37:50+00:00",
+    "original_sha256": "f3389c0124c832386a04123923140cf065cf0b615b9a260cce5d351f841ad1d3",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP2/JorgePereira_TP2_B.m",
+    "repository_path": "coursework/TP2/JorgePereira_TP2_B.m",
+    "original_modified_utc": "2021-03-25T23:37:56+00:00",
+    "original_sha256": "3a990d1bf9d4d7096dcd08b59d582292460214d3fe9c46fcd02b5419c2fa1da5",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP2/JorgePereira_TP2_C.m",
+    "repository_path": "coursework/TP2/JorgePereira_TP2_C.m",
+    "original_modified_utc": "2021-03-25T23:39:41+00:00",
+    "original_sha256": "7afafbead6f04a8fbb97b4dbb5031ba21535e9a5edb9b2ab877a1840513dc4f2",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP2/JorgePereira_TP2_D.m",
+    "repository_path": "coursework/TP2/JorgePereira_TP2_D.m",
+    "original_modified_utc": "2021-04-09T22:06:52+00:00",
+    "original_sha256": "1a6c28c2887e9b5d3eac134e50b406bab49515d1190226286f4274c2c348a060",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP2/JorgePereira_TP2_E.m",
+    "repository_path": "coursework/TP2/JorgePereira_TP2_E.m",
+    "original_modified_utc": "2021-03-25T23:57:56+00:00",
+    "original_sha256": "dd285f143030546e6e07b7d069a54331dca2999edf1c07999fa39a6823e7708e",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP2/JorgePereira_TP2_F.m",
+    "repository_path": "coursework/TP2/JorgePereira_TP2_F.m",
+    "original_modified_utc": "2021-03-25T23:48:17+00:00",
+    "original_sha256": "dcb40fe00d8b746a15b20ede48be2ca597acc4623499a27d942297b715c80107",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP2/JorgePereira_TP2_G.m",
+    "repository_path": "coursework/TP2/JorgePereira_TP2_G.m",
+    "original_modified_utc": "2021-03-26T20:48:54+00:00",
+    "original_sha256": "bb8c9fe8c66323e26e2797fc4aee7ebef4c05a8f0609dbbf5182b2c4ab3fbc25",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP2/JorgePereira_TP2_H.m",
+    "repository_path": "coursework/TP2/JorgePereira_TP2_H.m",
+    "original_modified_utc": "2021-03-30T20:26:25+00:00",
+    "original_sha256": "eda82de1faed577cdf0a0c9b0fc793175857908217872fb4afcdd0206afc3155",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP2/JorgePereira_TP2_H_Iluminacao.m",
+    "repository_path": "coursework/TP2/JorgePereira_TP2_H_Iluminacao.m",
+    "original_modified_utc": "2021-03-25T22:41:23+00:00",
+    "original_sha256": "8f9f87f3da6837554a293d2b840766066f9af91d10596a1946ccfc487f8ca74c",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP2/JorgePereira_TP2_H_Iluminacao_Inc.m",
+    "repository_path": "coursework/TP2/JorgePereira_TP2_H_Iluminacao_Inc.m",
+    "original_modified_utc": "2021-03-25T23:49:50+00:00",
+    "original_sha256": "29dddc634df93eca96cb044c95b72c26dbe92d8810fc76691136cbd37efa03e8",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP2/JorgePereira_TP2_H_Local.m",
+    "repository_path": "coursework/TP2/JorgePereira_TP2_H_Local.m",
+    "original_modified_utc": "2021-03-25T22:57:59+00:00",
+    "original_sha256": "949526fb8b3e4aee5d135cda8c8b973d19795adf3c47d1b0192bffa7a728971f",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP3/JorgePereira_TP3_A1.m",
+    "repository_path": "coursework/TP3/JorgePereira_TP3_A1.m",
+    "original_modified_utc": "2021-04-22T22:14:43+00:00",
+    "original_sha256": "4c071db959a703fc250f56d85afd408b1204e88eca56073d2e6bad826032df7d",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP3/JorgePereira_TP3_A2.m",
+    "repository_path": "coursework/TP3/JorgePereira_TP3_A2.m",
+    "original_modified_utc": "2021-04-22T22:19:23+00:00",
+    "original_sha256": "9f0fdc6292832fb5e935a8775261a8a4d2925adf06ebe3f2d68ad73f45911c2e",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP3/JorgePereira_TP3_A3.m",
+    "repository_path": "coursework/TP3/JorgePereira_TP3_A3.m",
+    "original_modified_utc": "2021-04-22T22:18:23+00:00",
+    "original_sha256": "6a1367c387f72c0c49a118078b331d14548247c66ebf65fcbab5bfaf78c116d0",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP3/JorgePereira_TP3_B1.m",
+    "repository_path": "coursework/TP3/JorgePereira_TP3_B1.m",
+    "original_modified_utc": "2021-04-22T22:26:34+00:00",
+    "original_sha256": "9f8b0220b6d5034cb04f8dd524cdddb15e1c47569fcc2efb7664ca2f1b1210a5",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP3/JorgePereira_TP3_B2.m",
+    "repository_path": "coursework/TP3/JorgePereira_TP3_B2.m",
+    "original_modified_utc": "2021-04-25T16:20:41+00:00",
+    "original_sha256": "d6548555cf780986f892dae545ffe6f3437ad30bc43031cc321a104781b816b9",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP3/JorgePereira_TP3_C.m",
+    "repository_path": "coursework/TP3/JorgePereira_TP3_C.m",
+    "original_modified_utc": "2021-04-25T16:20:05+00:00",
+    "original_sha256": "5ee968c1817f0d587eb1c098ad693a609c69b0e1842786c73c1a1cd79540d39c",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP3/JorgePereira_TP3_D1.m",
+    "repository_path": "coursework/TP3/JorgePereira_TP3_D1.m",
+    "original_modified_utc": "2021-04-25T16:21:37+00:00",
+    "original_sha256": "015ff6b28d69505be093dd3709eeb753e800f94c4944bf4aa0afa9474c9a40d6",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP3/JorgePereira_TP3_D2.m",
+    "repository_path": "coursework/TP3/JorgePereira_TP3_D2.m",
+    "original_modified_utc": "2021-04-22T22:43:08+00:00",
+    "original_sha256": "e96f078cf06a17117398e1e33b9e61236b2cf004fc8ec97236b9123289d5c472",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP3/JorgePereira_TP3_D3.m",
+    "repository_path": "coursework/TP3/JorgePereira_TP3_D3.m",
+    "original_modified_utc": "2021-04-25T16:23:06+00:00",
+    "original_sha256": "6baddefa0588812e7af53a191c5aa2e11c58f51e89cb664e3fd29a2fe6e754a7",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP3/JorgePereira_TP3_D3_Iluminacao_Inc.m",
+    "repository_path": "coursework/TP3/JorgePereira_TP3_D3_Iluminacao_Inc.m",
+    "original_modified_utc": "2021-04-22T22:50:41+00:00",
+    "original_sha256": "076fc22e154557c9fdf99a99ba3707954db43ada57a9393c2138d57bbac1ca20",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP3/JorgePereira_TP3_D_Interpolacao.m",
+    "repository_path": "coursework/TP3/JorgePereira_TP3_D_Interpolacao.m",
+    "original_modified_utc": "2021-04-22T22:52:00+00:00",
+    "original_sha256": "298fa353fc9ecf281a71c2dfe427520565ae650da01757b59ae29e8326a57839",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP4/JorgePereira_TP4_A1.m",
+    "repository_path": "coursework/TP4/JorgePereira_TP4_A1.m",
+    "original_modified_utc": "2021-05-17T17:53:52+00:00",
+    "original_sha256": "f302697b7b3db78ba4f0b8b6e61c3ba845d99327aa3a24a5c4c4fe9dd1c5bd8b",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP4/JorgePereira_TP4_A2.m",
+    "repository_path": "coursework/TP4/JorgePereira_TP4_A2.m",
+    "original_modified_utc": "2021-05-17T17:56:23+00:00",
+    "original_sha256": "5fb49905e8b951e1022aff2bd20719476ab23c183fae77dfd6c4001369d407ff",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP4/JorgePereira_TP4_A3.m",
+    "repository_path": "coursework/TP4/JorgePereira_TP4_A3.m",
+    "original_modified_utc": "2021-05-17T17:58:22+00:00",
+    "original_sha256": "84a07dfdfbce311ed12ab7d4413028ae27678937fcbaa5d69614df12a74094d4",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP4/JorgePereira_TP4_B1.m",
+    "repository_path": "coursework/TP4/JorgePereira_TP4_B1.m",
+    "original_modified_utc": "2021-05-17T17:58:47+00:00",
+    "original_sha256": "b0749560f260b1ae73ea325d36c60aa187e65740168be73fa844008b58e95c7f",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP4/JorgePereira_TP4_B2.m",
+    "repository_path": "coursework/TP4/JorgePereira_TP4_B2.m",
+    "original_modified_utc": "2021-05-17T18:01:22+00:00",
+    "original_sha256": "65e35fc393a322cbd2227d12fb5052218114a3519846e16c639a0e915a0e7f38",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP4/JorgePereira_TP4_B3.m",
+    "repository_path": "coursework/TP4/JorgePereira_TP4_B3.m",
+    "original_modified_utc": "2021-05-17T18:01:01+00:00",
+    "original_sha256": "8cfdb789a046f098c46701a3eb137107a46ce162da850d95a4f89391911ccffa",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP4/JorgePereira_TP4_C1.m",
+    "repository_path": "coursework/TP4/JorgePereira_TP4_C1.m",
+    "original_modified_utc": "2021-05-17T18:02:26+00:00",
+    "original_sha256": "418e42cfbcb24245f426959ef26df726b6b2f327cee92720799920523a8d2a5e",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP4/JorgePereira_TP4_C2.m",
+    "repository_path": "coursework/TP4/JorgePereira_TP4_C2.m",
+    "original_modified_utc": "2021-05-17T18:04:11+00:00",
+    "original_sha256": "ced06c0767d00e63b8b85e918761a74a3184c337f7150a74553239885cee2c4c",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP4/JorgePereira_TP4_C3.m",
+    "repository_path": "coursework/TP4/JorgePereira_TP4_C3.m",
+    "original_modified_utc": "2021-05-17T20:50:04+00:00",
+    "original_sha256": "5d70fcae9a440e688346ed56206e597de9895684929828dbbb6e22f49570de01",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP5/JorgePereira_TP5_A1.m",
+    "repository_path": "coursework/TP5/JorgePereira_TP5_A1.m",
+    "original_modified_utc": "2021-05-30T22:22:50+00:00",
+    "original_sha256": "6941355c585313f26232286ee080142dd34c4442e767ee8cb3d3dae0ffffd7df",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP5/JorgePereira_TP5_A2.m",
+    "repository_path": "coursework/TP5/JorgePereira_TP5_A2.m",
+    "original_modified_utc": "2021-05-30T21:32:12+00:00",
+    "original_sha256": "c3c8cffd26131df4f7606423479723b57985f6c7fd14fe8696b69a67ed94dbda",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP5/JorgePereira_TP5_B1.m",
+    "repository_path": "coursework/TP5/JorgePereira_TP5_B1.m",
+    "original_modified_utc": "2021-05-30T22:24:17+00:00",
+    "original_sha256": "2058334a4c1ef98301d82759b3fe577f5c01cb7126e0764756f7f4cec378d659",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP5/JorgePereira_TP5_B2.m",
+    "repository_path": "coursework/TP5/JorgePereira_TP5_B2.m",
+    "original_modified_utc": "2021-05-30T22:25:04+00:00",
+    "original_sha256": "a213f1748157135398ca4c96f42ed8d726cd3ccc31076dcec8d222a43148ce53",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP5/JorgePereira_TP5_C1.m",
+    "repository_path": "coursework/TP5/JorgePereira_TP5_C1.m",
+    "original_modified_utc": "2021-05-30T22:22:35+00:00",
+    "original_sha256": "4116a16c7d1f36b3bcc1d8754302adcb2b56414e24f791342c0ddf78b0821ed1",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP5/JorgePereira_TP5_C2.m",
+    "repository_path": "coursework/TP5/JorgePereira_TP5_C2.m",
+    "original_modified_utc": "2021-05-30T22:31:11+00:00",
+    "original_sha256": "dac19edb88f422f6bff3a01caa0be07a5e05f7a8f5111bb0aa13a0e0ae1ef569",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP6/JorgePereira_TP6_A1.m",
+    "repository_path": "coursework/TP6/JorgePereira_TP6_A1.m",
+    "original_modified_utc": "2021-06-16T16:41:32+00:00",
+    "original_sha256": "a1784bee17d4c22ebf200d4ab1664dc4101f84b1ffe3ad5fc2df63a932f1559d",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP6/JorgePereira_TP6_A2.m",
+    "repository_path": "coursework/TP6/JorgePereira_TP6_A2.m",
+    "original_modified_utc": "2021-06-16T01:52:31+00:00",
+    "original_sha256": "0e1a1181f9c893369ef64eaf1d7484fcefeadf51bf63dcb903dc1a0631eaa784",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP6/JorgePereira_TP6_B.m",
+    "repository_path": "coursework/TP6/JorgePereira_TP6_B.m",
+    "original_modified_utc": "2021-06-16T01:52:40+00:00",
+    "original_sha256": "171f0bfe4a21ec17f310618aa75f29d0c3c44a4670a305806abb42553809666b",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP6/JorgePereira_TP6_C1.m",
+    "repository_path": "coursework/TP6/JorgePereira_TP6_C1.m",
+    "original_modified_utc": "2021-06-16T01:53:07+00:00",
+    "original_sha256": "244bf8d6536141c17d3ae686eb22595cd1c26db89670835e3c58a74c9bfc8e48",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP6/JorgePereira_TP6_C2.m",
+    "repository_path": "coursework/TP6/JorgePereira_TP6_C2.m",
+    "original_modified_utc": "2021-06-16T12:58:40+00:00",
+    "original_sha256": "87c33155c573684bf87eab922fd7b138602f5583bd2b7cdb94b66e34d8e1220d",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP6/JorgePereira_TP6_C2_Interpolacao.m",
+    "repository_path": "coursework/TP6/JorgePereira_TP6_C2_Interpolacao.m",
+    "original_modified_utc": "2021-06-04T10:13:05+00:00",
+    "original_sha256": "1e3f006ebe78a8073368f27d9df8cec271fbe6adec6002fdd02539b229cf7807",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP6/JorgePereira_TP6_D1.m",
+    "repository_path": "coursework/TP6/JorgePereira_TP6_D1.m",
+    "original_modified_utc": "2021-06-16T12:51:23+00:00",
+    "original_sha256": "f4b07f9740b226d59eba8c762ffa91012c273ab4fdd095dd545fc4ef48f30826",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP6/JorgePereira_TP6_D2.m",
+    "repository_path": "coursework/TP6/JorgePereira_TP6_D2.m",
+    "original_modified_utc": "2021-06-20T13:08:50+00:00",
+    "original_sha256": "61ba0cb22cebfb636842371483985acd8d0f3d6aa11d6640bf9d1de8307cf012",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  },
+  {
+    "original_path": "TP6/JorgePereira_TP6_D2_Interpolacao.m",
+    "repository_path": "coursework/TP6/JorgePereira_TP6_D2_Interpolacao.m",
+    "original_modified_utc": "2021-06-04T10:13:05+00:00",
+    "original_sha256": "1e3f006ebe78a8073368f27d9df8cec271fbe6adec6002fdd02539b229cf7807",
+    "attribution": "Jorge Barbosa Pereira, as identified in the supplied coursework"
+  }
+]

@@ -1,0 +1,22 @@
+name: MATLAB checks
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  matlab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up MATLAB and toolboxes
+        uses: matlab-actions/setup-matlab@v3
+        with:
+          products: Image_Processing_Toolbox Signal_Processing_Toolbox
+      - name: Run numerical regression tests and synthetic demos
+        uses: matlab-actions/run-command@v3
+        with:
+          command: addpath('tests'); results = runtests('tests'); assertSuccess(results); addpath('examples'); run_demo('output/ci');
+      - name: Upload generated demonstration artifacts
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: matlab-demo
+          path: output/ci/

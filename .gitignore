@@ -1,0 +1,15 @@
+.venv/
+output/
+__pycache__/
+*.py[cod]
+*.asv
+*.fig
+*.avi
+*.rar
+*.pdf
+*.docx
+*.nii
+*.mp3
+data/private/
+.idea/
+.env
