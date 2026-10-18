@@ -1,11 +1,16 @@
 name: MATLAB checks
 on: [push, pull_request, workflow_dispatch]
+concurrency:
+  group: matlab-${{ github.ref }}
+  cancel-in-progress: true
 jobs:
   matlab:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+      - name: Verify preserved source hashes and publication contents
+        run: python3 tools/audit_repository.py
       - name: Set up MATLAB and toolboxes
         uses: matlab-actions/setup-matlab@v3
         with:
